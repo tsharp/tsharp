@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 <!--
 **tsharp/tsharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+```text
+Go           1 hr 46 mins    ████████████████████░░░░░   79.46 % 
+YAML         27 mins         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+```
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsharp&layout=compact)](https://github.com/tsharp/tsharp)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
