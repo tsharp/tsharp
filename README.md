@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Travis!
 
 
 
@@ -21,6 +21,11 @@ Go           1 hr 46 mins    █████████████████
 YAML         27 mins         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
 ```
 -->
+
+- 🔭 I’m currently working on ... [kupier-db](https://github.com/tsharp/kupier-db)
+- 🌱 I’m currently learning ... Rust
+- 🤔 I’m looking for help with ... [kupier-db](https://github.com/tsharp/kupier-db)
+- 📫 How to reach me: ... [E-Mail](mailto:tsharp@darkspace.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsharp&layout=compact)](https://github.com/tsharp/tsharp)
 
