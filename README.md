@@ -23,7 +23,7 @@ YAML         27 mins         █████░░░░░░░░░░░░
 -->
 
 - 🔭 I’m currently working on ... [kupier-db](https://github.com/tsharp/kupier-db)
-- 🌱 I’m currently learning ... Rust
+- 🌱 I’m currently learning ... Rust, Go
 - 🤔 I’m looking for help with ... [kupier-db](https://github.com/tsharp/kupier-db)
 - 📫 How to reach me: ... [E-Mail](mailto:tsharp@darkspace.dev)
 
