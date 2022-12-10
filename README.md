@@ -22,9 +22,9 @@ YAML         27 mins         █████░░░░░░░░░░░░
 ```
 -->
 
-- 🔭 I’m currently working on ... [kupier-db](https://github.com/tsharp/kupier-db) and [OData.Extensions.Graph](https://github.com/tsharp/OData.Extensions.Graph)
+- 🔭 I’m currently working on ... [kupier-db](https://github.com/tsharp/kupier-db)
 - 🌱 I’m currently learning ... Rust
-- 🤔 I’m looking for help with ... [kupier-db](https://github.com/tsharp/kupier-db) and [OData.Extensions.Graph](https://github.com/tsharp/OData.Extensions.Graph)
+- 🤔 I’m looking for help with ... [kupier-db](https://github.com/tsharp/kupier-db)
 - 📫 How to reach me: ... [E-Mail](mailto:tsharp@darkspace.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsharp&layout=compact)](https://github.com/tsharp/tsharp)
